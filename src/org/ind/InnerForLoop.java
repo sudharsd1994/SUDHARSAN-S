@@ -12,5 +12,10 @@ System.out.print(i);
 System.out.println();
 }
 System.out.println("END");
+System.out.println("********************************************************************");
+}
+
+public void StudentId() {
+	System.out.println("Student ID: 22-23/0153 ");
 }
 }
