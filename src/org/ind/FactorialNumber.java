@@ -9,5 +9,6 @@ public class FactorialNumber {
 	 a = a * i;
 	 }
 	 System.out.println(a);
+	 System.out.println("END Of STATEMENT :*************");
 	 }
 }
