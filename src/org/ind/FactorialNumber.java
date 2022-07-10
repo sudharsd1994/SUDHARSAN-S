@@ -12,5 +12,11 @@ public class FactorialNumber {
 
 	public void StudentId() {
 		System.out.println("Student ID: 22-23/0153 ");
+	 int a = 1;
+	 for (int i = 1; i <= 8; i++) {
+	 a = a * i;
+	 }
+	 System.out.println(a);
+	 System.out.println("END Of STATEMENT :*************");
 	}
 }
